@@ -1,6 +1,6 @@
 // Library Management system for college student
 // class will be library
-// but objact will be student only
+// and objact will be student only
 
 #include <iostream>
 #include <string>
